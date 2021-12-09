@@ -2,10 +2,10 @@
 python script for marking attendance using facial recognition
 
 ## Images
-![Borders](/img/Bill_gates.png)
+![Borders](/img/Bill_gates.PNG)
 
-![Borders](/img/jack_ma.png)
+![Borders](/img/jack_ma.PNG)
 
-![Borders](/img/elon_musk.png)
+![Borders](/img/elon_musk.PNG)
 
-![Borders](/img/Attendance_file.png)
+![Borders](/img/Attendance_file.PNG)
